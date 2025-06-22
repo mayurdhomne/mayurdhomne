@@ -49,12 +49,12 @@ I'm a **passionate Android Developer** with 3+ years of experience crafting intu
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayurdhomne&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdhomne&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurdhomne&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
